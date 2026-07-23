@@ -4,3 +4,5 @@ Sesi Git 1
 Belajar git workflow lokal.
 ## Tujuan
 Belajar git workflow lokal.
+## Senarai arahan
+- git init / git add / git commit
